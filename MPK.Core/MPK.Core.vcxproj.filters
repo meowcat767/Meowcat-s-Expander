@@ -41,5 +41,8 @@
     <ClCompile Include="Writer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ArchiveEntry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -131,6 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Archive.cpp" />
+    <ClCompile Include="ArchiveEntry.cpp" />
     <ClCompile Include="Reader.cpp" />
     <ClCompile Include="Writer.cpp" />
   </ItemGroup>
